@@ -1,0 +1,2 @@
+# Study-Case-Manajemen-Distribusi-Proyek-Berbasis-Multi-Linked-List-pada-Pemerintahan-Provinsi-Banten
+ Pemerintah Provinsi Banten sedang mengelola program  pengembangan infrastruktur untuk meningkatkan pelayanan masyarakat di berbagai  kota. Dalam proses pengelolaan proyek  ini, Pemerintah Provinsi Banten menerapkan sistem berbasis Multi Linked List untuk  mengatur hubungan antara kota, jenis proyek, dan tim pelaksana yang bertanggung  jawab.
